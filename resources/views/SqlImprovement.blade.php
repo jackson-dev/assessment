@@ -79,7 +79,7 @@
 
                 <div>
                     <p><b>Explaination:</b></p>
-                    <p>Remove Redundant Left Joins
+                    <p>It is hard to work on this as no use case was given nor sample database. So, best effort only. Remove Redundant Left Joins
 Redundant LEFT JOINs (e.g. `personalities`) were detected in the query. Removing them will result in a performance improvement.</p>
                 </div>
                 <hr>
